@@ -87,6 +87,13 @@ Une fois la permission accordée, l’application affiche les informations récu
 <img width="366" height="737" alt="image" src="https://github.com/user-attachments/assets/c6a6b35b-78b0-4022-846f-082e50fcc18b" />
 
 
+<img width="1433" height="936" alt="image" src="https://github.com/user-attachments/assets/af1125a1-d945-471b-8ffa-2cb6aa834540" />
+
+
+<img width="1437" height="937" alt="image" src="https://github.com/user-attachments/assets/488280ef-0e57-4bae-b1e6-3b50aa01f843" />
+
+
+
 ---
 
 ##  Vérification dans la base de données
