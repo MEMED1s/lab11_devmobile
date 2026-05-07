@@ -40,10 +40,11 @@ Ce projet illustre donc un cas pratique de **géolocalisation mobile connectée 
 
 Le dossier serveur contient les fichiers nécessaires au traitement et à l’insertion des données côté PHP.
 
-### Capture de l’arborescence du projet
 
 
-<img width="1626" height="347" alt="image" src="https://github.com/user-attachments/assets/af786565-c6ec-4829-af8f-9f07f5814793" />
+
+<img width="1558" height="355" alt="image" src="https://github.com/user-attachments/assets/4f5a8927-1216-42af-9797-78ca5866c998" />
+
 
 
 ---
@@ -65,7 +66,7 @@ Le fonctionnement de l’application se déroule en plusieurs étapes :
 
 Au démarrage, l’application affiche une boîte de dialogue demandant l’accès à la localisation du téléphone.
 
-### Capture de la demande de permission
+
 
 
 <img width="382" height="739" alt="image" src="https://github.com/user-attachments/assets/eca9b4c9-3868-4662-a452-608a729278f7" />
@@ -81,7 +82,7 @@ Une fois la permission accordée, l’application affiche les informations récu
 - date,
 - IMEI.
 
-### Capture de l’écran résultat
+
 
 <img width="366" height="737" alt="image" src="https://github.com/user-attachments/assets/c6a6b35b-78b0-4022-846f-082e50fcc18b" />
 
@@ -92,7 +93,7 @@ Une fois la permission accordée, l’application affiche les informations récu
 
 Après l’envoi depuis Android, les données sont bien enregistrées dans la table `position` de la base `localisation`.
 
-### Capture de la table dans phpMyAdmin
+
 
 
 <img width="501" height="223" alt="image" src="https://github.com/user-attachments/assets/70eba04e-74b6-489f-bf12-d17749bdfa59" />
